@@ -117,37 +117,3 @@ We’re willing to provide all of this for our automated development tools; why 
 Tags
 
 Ruby, Professional Development, Career Growth
-
-Initial Notes
-=====
-
-Running a Team in the World of LLMs
-
-–Policy and procedures 
-–Clarity
-–Demonstrate what is known
-–Show where wiggle room exists. What's unknown
-–Task descriptions
-–Breaking problems down
-–Iterate/explore options
-–Push changes - momentum
-–Respond to feedback quickly - this is your work that's closest to being done
-–Code review feedback suggestions
-
-All of this is important for humans, not a text prediction machine. And humans have context and memory. Embrace these suggestions for the human on your team, not the computer you work on. It's insulting that we're investing in these changes because it will benefit a computer. Not when it would benefit the humans using the computer. Ruby's ethos of developer happiness over the benefit for computers. Hire an early career developer.
-
-powerfuLLMachine
-
-In this brave new world, rather than removing vowels from company/product names, we're adding consonants.
-
-Onboarding at company or product or department with long name with initials that turns into human or person or something like that.
-
-Sections: world building, active development, code review. 
-
-Go through once for the computer and again for the human. 
-
-Background becomes job description. Guardrails become norms, explaining what's expected. Where can we be loose? What must be right? Motivation is growth plans. 
-
-Develop and ship in thin slices. Use feature flags to enable shipping without exposure. Constrain the problem while allowing opportunity to come up with next steps. Building a calculator, writing a test where you typo a letter rather than a number as input. Add a test description "handles non-numeric input" and move on. Later, consider options for how to handle that. 
-
-Praise positive work in code review: adds weight to the training corpus. Be clear when things are suggestions or required (limited compute in the review stage, so llm needs to know where to focus). Ask for justification to learn options considered and why a solution was chosen.
